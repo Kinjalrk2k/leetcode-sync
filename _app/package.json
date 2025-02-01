@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@leetnotion/leetcode-api": "^1.10.0",
+    "cli-spinners": "^3.2.0",
+    "dotenv": "^16.4.7",
+    "leetcode-query": "^1.2.3",
+    "node-console-progress-bar-tqdm": "^1.0.4",
+    "ora": "^8.1.1",
+    "playwright": "^1.50.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
